@@ -12,7 +12,7 @@ This job form application can be used by recruiters, hr-managers, or other peopl
 <li>Python (Django)</li>
 <li>HTML</li>
 <li>Bootstrap</li>
-<li>SQLite3</li>
+<li>SQLite</li>
 
 
 <h3>Screenshots of the projects:</h3>
