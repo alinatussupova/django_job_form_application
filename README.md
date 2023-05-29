@@ -31,6 +31,11 @@
 ![fill_data](https://user-images.githubusercontent.com/102950421/230875229-4e916e62-3ff3-45d0-b976-77307b5e69c1.png)
 
 
+<strong>Notification on data submiting:</strong>
+![image](https://github.com/alinatussupova/django_job_form_application/assets/102950421/63cefcef-77a9-430b-9025-2e36e0580e92)
+
+
+
 <strong>Contact form:</strong>
 
 
