@@ -7,6 +7,7 @@
 <strong>About the program:</strong>
 <p>This job form application can be used by recruiters, hr-managers, or other people, who somehow work with data on people's work status.</p>
 <p>The backend part also has an admin panel, where managers or anyone, who is conducting survey can access to the results of this survey.</p>
+<p>All data is collected in SQLite database.</p>
 
 
 <ul><strong>Technologies used:</strong></ul>
