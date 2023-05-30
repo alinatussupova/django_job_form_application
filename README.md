@@ -18,9 +18,8 @@
 
 <h3>Screenshots of the projects:</h3>
 
-<strong>That's how the program looked at the beginning:</strong>
-<p>Here I added HTML and Bootstrap:</p>
 
+<p><strong>The Home Page:</strong></p>
 
 ![with-bootstrap](https://user-images.githubusercontent.com/102950421/230875023-b9b07b27-49e9-41c8-9e5a-3760bf9d50c1.png)
 
