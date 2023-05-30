@@ -45,6 +45,24 @@
 ![image](https://user-images.githubusercontent.com/102950421/230876035-61fbe8e0-1b30-4022-8434-465f7a2b6866.png)
 
 
+<h3><strong>My work process:</strong></h3>
+
+
+![image](https://github.com/alinatussupova/django_job_form_application/assets/102950421/81dac0aa-0d61-409d-beb8-2557d4dc1684)
+
+<p>The paper sketch of the Home Page:</p>
+
+![image](https://github.com/alinatussupova/django_job_form_application/assets/102950421/aaf97091-0dac-4190-902a-7e377d5c7c22)
+
+
+
+<p>Paper sketch of the database and form in the Django admin panel:</p>
+
+![image](https://github.com/alinatussupova/django_job_form_application/assets/102950421/5eec1d09-7112-49ba-bc1d-f0b5827e0216)
+
+
+
+
 
 
 
