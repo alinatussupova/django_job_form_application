@@ -48,7 +48,8 @@
 <h3><strong>My work process:</strong></h3>
 
 
-![image](https://github.com/alinatussupova/django_job_form_application/assets/102950421/81dac0aa-0d61-409d-beb8-2557d4dc1684)
+![image](https://github.com/alinatussupova/django_job_form_application/assets/102950421/5cd4f2be-de36-4e45-92c3-9db8eef4c0d0)
+
 
 <p>The paper sketch of the Home Page:</p>
 
